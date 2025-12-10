@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/aanzoski/relic/blob/main/others/assets/relic.webp?raw=true" height="180">
+<p align="center"><img src="others/assets/relic.webp" height="180">
 
 <h1 align="center"><strong>Relic Ultimate</strong></h1>
 <h3 align="center"><a href="https://dsc.gg/galaxyproxi">Discord Server</a></h3>
